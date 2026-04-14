@@ -1,0 +1,33 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# JARVIS runtime files
+memory.json
+*.wav
+*.tmp
+
+# Voice model (too large for GitHub, download manually)
+voice/
+
+# Piper engine (too large for GitHub, download manually)
+piper/
+
+# Environment & secrets
+.env
+*.env
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Logs
+*.log
